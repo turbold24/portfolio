@@ -6,7 +6,7 @@ external: 'https://mcc.shoppy.mn/'
 tech:
   - React
   - NodeJs
-company: 'Mongolian Cosmetics Clusters LLC'
+company: 'MCC LLC'
 show: 'true'
 ---
 

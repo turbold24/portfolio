@@ -2,7 +2,7 @@
 date: '2019-11-10'
 title: 'Baigal Jewelry'
 github: ''
-external: 'https://baigal.shoppy.mn/'
+external: 'https://baigalhouse.com/'
 tech:
   - React
   - NodeJs

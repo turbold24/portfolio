@@ -2,7 +2,7 @@
 date: '2019-11-10'
 title: 'SmartStore'
 github: ''
-external: 'https://smartstore.shoppy.mn/'
+external: 'https://smartstore.mn/'
 tech:
   - React
   - NodeJs

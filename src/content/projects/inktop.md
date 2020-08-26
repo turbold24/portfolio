@@ -2,7 +2,7 @@
 date: '2019-09-10'
 title: 'Inktop'
 github: ''
-external: 'https://inktop.shoppy.mn/'
+external: 'https://inktop.mn/'
 tech:
   - React
   - NodeJs

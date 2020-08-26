@@ -2,7 +2,7 @@
 date: '2019-12-15'
 title: 'Amway Mongolia'
 github: ''
-external: 'https://sashka.shoppy.mn'
+external: 'https://ammay.mn/'
 tech:
   - React
   - NodeJs
