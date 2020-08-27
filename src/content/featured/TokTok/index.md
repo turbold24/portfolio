@@ -7,7 +7,7 @@ tech:
   - Vue.js
   - Aws
   - Laravel
-show: 'true'
+show: 'false'
 ---
 
 You can think of TokTok as a Uber Eats in Ulaanbaatar. You can order meals and other products through toktok.mn and toktok application.
