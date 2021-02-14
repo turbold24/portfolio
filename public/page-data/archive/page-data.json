@@ -1,1 +1,700 @@
-{"componentChunkName":"component---src-pages-archive-js","path":"/archive/","webpackCompilationHash":"a61b6aba2e7ffaba58d7","result":{"data":{"projects":{"edges":[{"node":{"frontmatter":{"date":"2019-9-20","title":"Joinme","tech":["React","NodeJs"],"github":"","external":"https://joinme.mn/","company":"Joinme LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-9-20","title":"Mongolian Cosmetics Cluster","tech":["React","NodeJs"],"github":"","external":"https://mcc.shoppy.mn/","company":"Mongolian Cosmetics Clusters LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-12-20","title":"Scent Marketing","tech":["PHP","WordPress"],"github":"","external":"http://scentmarketing.mn/","company":"OBAX Mongolia","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"date":"2019-12-15","title":"Amway Mongolia","tech":["React","NodeJs"],"github":"","external":"https://sashka.shoppy.mn","company":"Amway Mongolia LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-11-5","title":"BTF","tech":["React","NodeJs"],"github":"","external":"https://beta.btf.mn/","company":"BTF LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-11-15","title":"Flower Greeting","tech":["React","NodeJs"],"github":"","external":"https://flower.shoppy.mn","company":"Flower Greetings LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-11-13","title":"Deutsche Welle Mongolia","tech":["React","NodeJs"],"github":"","external":"https://haus.shoppy.mn/","company":"Deustche Welle Mongolia LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-11-10","title":"Baigal Jewelry","tech":["React","NodeJs"],"github":"","external":"https://baigal.shoppy.mn/","company":"BAIGAL HOUSE LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-11-10","title":"SmartStore","tech":["React","NodeJs"],"github":"","external":"https://smartstore.shoppy.mn/","company":"Solar Star LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-11-01","title":"Cose Cosmetics","tech":["React","NodeJs"],"github":"","external":"https://cose.mn","company":"Amuulai LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-10-25","title":"Metro Express","tech":["React","NodeJs"],"github":"","external":"https://metro.shoppy.mn/","company":"Metro Express LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-10-20","title":"Tavannuden","tech":["React","NodeJs"],"github":"","external":"https://tavannuden.com/","company":"MINPRO LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-10-10","title":"Michel Amazonka","tech":["React","NodeJs"],"github":"","external":"https://ma.shoppy.mn/","company":"Michel Amazonka LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-10-01","title":"IT Store","tech":["React","NodeJs"],"github":"","external":"https://itstore.mn","company":"IT Zone LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-09-10","title":"Inktop","tech":["React","NodeJs"],"github":"","external":"https://inktop.shoppy.mn/","company":"ZUV UNGU LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-09-01","title":"Next Electronics","tech":["React","NodeJs"],"github":"","external":"https://next.mn","company":"Next Electronics LLC","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"date":"2019-08-01","title":"Tavan Bogd Washyoku","tech":["PHP"],"github":"","external":"http://washyoku.tavanbogd.mn/","company":"Tavan Bogd Washyoku LLC","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"date":"2019-07-01","title":"Tavan Bogd Group","tech":["PHP"],"github":"","external":"http://tavanbogd.com/","company":"Tavan Bogd Group","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"date":"2019-07-01","title":"Xerox","tech":["PHP"],"github":"","external":"http://xerox.mn/","company":"Xerox Corporation","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"date":"2019-06-01","title":"Smart Electronics","tech":["PHP"],"github":"","external":"http://smartcenter.mn/","company":"Smart Electronics LLC","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"date":"2018-5-01","title":"Food Service LLC","tech":["PHP"],"github":"","external":"http://foodservice.mn/","company":"Food Service LLC","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"date":"2018-04-01","title":"IT Global Academy","tech":["PHP","Laravel"],"github":"","external":"http://itcompany.mkit.mn/","company":"IT Global","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"date":"2017-4-01","title":"Narumi Makeup Salon","tech":["PHP","WordPress"],"github":"","external":"https://www.narumi.mn/","company":"Narumi LLC","show":"true"},"html":"<p>WordPress website with online ordering system.</p>"}},{"node":{"frontmatter":{"date":"2017-11-01","title":"Chig Shoes Brand","tech":["PHP","Laravel"],"github":"","external":"http://chig-brand.com/","company":"Chig Shoe","show":"true"},"html":"<p>Company introductory website.</p>"}}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
+{
+  "componentChunkName": "component---src-pages-archive-js",
+  "path": "/archive/",
+  "webpackCompilationHash": "",
+  "result": {
+    "data": {
+      "projects": {
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-24",
+                "title": "Roseshop",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://roseshop.mn/",
+                "company": "Roseshop LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-24",
+                "title": "Ayanchin",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://ayanchin.mn/",
+                "company": "Ayanchin LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-24",
+                "title": "24auto.mn",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://24auto.mn/",
+                "company": "24auto LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-20",
+                "title": "Wellbee",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://wellbee.mn/",
+                "company": "Wellbee LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-16",
+                "title": "PC-MALL",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://pc-mall.mn/",
+                "company": "PC-MALL LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-16",
+                "title": "Michelamazonka",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://michelamazonka.com/",
+                "company": "Michel Amazonka LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-16",
+                "title": "Pizzahut Mongolia",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://pizzahut.mn/",
+                "company": "Tavanbogd",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-16",
+                "title": "TokTok",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://toktok.mn/",
+                "company": "Digital Aggregator LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-15",
+                "title": "Oeo",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://oeo.mn/",
+                "company": "OEO LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-10",
+                "title": "Ulaanbaatar passport",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://ubpassport.mn/",
+                "company": "UBP LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-10",
+                "title": "Mana",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://mana.mn/",
+                "company": "MANA LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-10",
+                "title": "Btf",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://btf.mn/",
+                "company": "BTF LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-01-05",
+                "title": "Gerplace",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://gerplace.mn/",
+                "company": "Gerplace Mongolia",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-12-10",
+                "title": "Mild",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://mild.mn/",
+                "company": "MILD LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-12-09",
+                "title": "Homeshopping",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://homeshopping.mn/",
+                "company": "Homeshopping LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-11-15",
+                "title": "Shoez",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://shoez.mn/",
+                "company": "Shoez LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-11-10",
+                "title": "Tumurbaatar Photographer",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://tumurbaatar.com/",
+                "company": "Tumurbaatar personal brand",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-10-09",
+                "title": "Sarlagleather",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://sarlagleather.com/",
+                "company": "Sarlagleather",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-10-09",
+                "title": "Comf",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://comf.mn/",
+                "company": "Succeed",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-10-09",
+                "title": "Airlink",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://airlink.mn/",
+                "company": "Airlink",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-09-16",
+                "title": "The most successful ecommerce in Mongolia",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://shoppy.mn/",
+                "company": "Shoppy LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-08-15",
+                "title": "Xyyp Music Festival",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://xyypmusicfestival.com/",
+                "company": "BRB mongolia",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-07-15",
+                "title": "Worldwine Ulaanbaatar",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "http://premiumtaste.mn/",
+                "company": "Worldwine UB",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-07-09",
+                "title": "Carters Mongolia",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://carters.mn/",
+                "company": "Carters",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-07-09",
+                "title": "Baby World Mongolia",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://babyworld.mn/",
+                "company": "Gurvan Gal LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-07-09",
+                "title": "Homemall",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://homemall.mn/",
+                "company": "Gobikhangai LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-06-15",
+                "title": "Sansar supermarket",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://esansar.mn/",
+                "company": "Sansar Supermarket",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-06-15",
+                "title": "Grocery Online",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://grocery.shoppy.mn/",
+                "company": "Shoppy LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-06-15",
+                "title": "Nature Republic",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://naturerepublic.mn/",
+                "company": "Gurval Gal LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-03-10",
+                "title": "Metro Express",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://metro-express.mn/",
+                "company": "Metro Express LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-9-20",
+                "title": "Joinme",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://joinme.mn/",
+                "company": "Joinme LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-12-15",
+                "title": "Amway Mongolia",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://ammay.mn/",
+                "company": "Amway Mongolia LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-11-15",
+                "title": "Flower Greeting",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://flower.mn",
+                "company": "Flower Greetings LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-11-13",
+                "title": "Deutsche Welle Mongolia",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://haus.mn/",
+                "company": "Deustche Welle Mongolia LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-11-10",
+                "title": "Baigal Jewelry",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://baigalhouse.com/",
+                "company": "BAIGAL HOUSE LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-11-10",
+                "title": "SmartStore",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://smartstore.mn/",
+                "company": "Solar Star LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-11-01",
+                "title": "Cose Cosmetics",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://cose.mn",
+                "company": "Amuulai LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-10-20",
+                "title": "Tavannuden",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://tavannuden.com/",
+                "company": "MINPRO LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-10-01",
+                "title": "IT Store",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://itstore.mn",
+                "company": "IT Zone LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-09-10",
+                "title": "Inktop",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://inktop.mn/",
+                "company": "ZUV UNGU LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-09-01",
+                "title": "Next Electronics",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://next.mn",
+                "company": "Next Electronics LLC",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-08-01",
+                "title": "Tavan Bogd Washyoku",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://washyoku.tavanbogd.mn/",
+                "company": "Tavan Bogd Washyoku LLC",
+                "show": "true"
+              },
+              "html": "<p>Company introductory website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-07-01",
+                "title": "Tavan Bogd Group",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://tavanbogd.com/",
+                "company": "Tavan Bogd Group",
+                "show": "true"
+              },
+              "html": "<p>Company introductory website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-07-01",
+                "title": "Xerox",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://xerox.mn/",
+                "company": "Xerox Corporation",
+                "show": "true"
+              },
+              "html": "<p>Company introductory website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-06-01",
+                "title": "Smart Electronics",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://smartcenter.mn/",
+                "company": "Smart Electronics LLC",
+                "show": "true"
+              },
+              "html": "<p>Company introductory website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2018-5-01",
+                "title": "Food Service LLC",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://foodservice.mn/",
+                "company": "Food Service LLC",
+                "show": "true"
+              },
+              "html": "<p>Company introductory website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2018-01-10",
+                "title": "Toyota Tavanbogd",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://toyota-tavanbogd.mn/",
+                "company": "Toyota Tavanbogd LLC",
+                "show": "true"
+              },
+              "html": "<p>Information website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2017-4-01",
+                "title": "Narumi Makeup Salon",
+                "tech": ["PHP", "WordPress"],
+                "github": "",
+                "external": "https://www.narumi.mn/",
+                "company": "Narumi LLC",
+                "show": "true"
+              },
+              "html": "<p>WordPress website with online ordering system.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2017-11-01",
+                "title": "Chig Shoes Brand",
+                "tech": ["PHP", "Laravel"],
+                "github": "",
+                "external": "http://chig-brand.com/",
+                "company": "Chig Shoe",
+                "show": "true"
+              },
+              "html": "<p>Company introductory website.</p>"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "isCreatedByStatefulCreatePages": true }
+  }
+}

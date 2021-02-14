@@ -2,7 +2,7 @@
 date: '2019-11-13'
 title: 'Deutsche Welle Mongolia'
 github: ''
-external: 'https://haus.shoppy.mn/'
+external: 'https://haus.mn/'
 tech:
   - React
   - NodeJs

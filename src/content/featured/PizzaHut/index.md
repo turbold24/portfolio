@@ -8,7 +8,7 @@ tech:
   - Node.js
   - Laravel
   - AWS
-show: 'true'
+show: 'false'
 ---
 
 Biggest pizza ordering system in Mongolia. The system is built with VueJS, Laravel (API) and Amazon Web Services (AWS).

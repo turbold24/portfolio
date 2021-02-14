@@ -134,7 +134,9 @@ const ArchivePage = ({ location, data }) => {
       <StyledMainContainer>
         <StyledTitleContainer ref={revealTitle}>
           <StyledTitle>Archive</StyledTitle>
-          <StyledSubtitle>A big list of things I’ve worked on</StyledSubtitle>
+          <StyledSubtitle>
+            A big list of projects ({projects.length}) I’ve worked on.
+          </StyledSubtitle>
         </StyledTitleContainer>
 
         <StyledTableContainer ref={revealTable}>

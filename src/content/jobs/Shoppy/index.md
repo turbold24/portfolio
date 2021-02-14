@@ -1,9 +1,9 @@
 ---
 date: '2019-08-23'
 title: 'Front End Developer'
-company: 'Shoppy.mn'
+company: 'shoppy.mn'
 location: 'Ulaanbaatar, Mongolia'
-range: 'Aug 2019 - Present'
+range: 'Aug 2019 - Feb 2021'
 url: 'https://www.shoppy.mn/'
 ---
 

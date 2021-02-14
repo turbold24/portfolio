@@ -1,12 +1,12 @@
 ---
 date: '2020-07-09'
-title: 'Gobikhangaimebel'
+title: 'Homemall'
 github: ''
-external: 'https://gobikhangaimebel.shoppy.mn/'
+external: 'https://homemall.mn/'
 tech:
   - React
   - NodeJs
-company: 'Gobikhangaimebel'
+company: 'Gobikhangai LLC'
 show: 'true'
 ---
 

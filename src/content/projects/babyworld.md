@@ -2,7 +2,7 @@
 date: '2020-07-09'
 title: 'Baby World Mongolia'
 github: ''
-external: 'https://babyworld.shoppy.mn/'
+external: 'https://babyworld.mn/'
 tech:
   - React
   - NodeJs
