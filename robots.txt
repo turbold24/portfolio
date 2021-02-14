@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://turboldamar.com/sitemap.xml
+Host: https://turboldamar.com
