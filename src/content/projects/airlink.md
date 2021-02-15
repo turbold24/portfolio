@@ -7,7 +7,7 @@ tech:
   - React
   - NodeJs
 company: 'Airlink'
-show: 'true'
+show: 'false'
 ---
 
 Ecommerce website

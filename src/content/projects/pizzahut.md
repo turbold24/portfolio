@@ -7,7 +7,7 @@ tech:
   - React
   - NodeJs
 company: 'Tavanbogd'
-show: 'true'
+show: 'false'
 ---
 
 Website
