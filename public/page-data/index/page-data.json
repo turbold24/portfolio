@@ -225,6 +225,66 @@
           {
             "node": {
               "frontmatter": {
+                "title": "bizhub.mn",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://bizhub.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Hyperworld",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://hyperworld.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Michaelkors",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://michaelkors.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Ntx",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://ntx.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Ugarena",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://ugarena.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
                 "title": "Autoparts.mn",
                 "tech": ["React", "GraphQl"],
                 "github": "",
@@ -237,8 +297,224 @@
           {
             "node": {
               "frontmatter": {
+                "title": "Urmine",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://urmine.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Zayabilgee",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://zayabilgee.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Brickhouse",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://brickhouse.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "oim",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://oimnogoonurlan.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Totalmusic",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://totalmusic.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Citycomputer",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://citycomputer.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "baba",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://baba.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "erdenetmall.mn",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://erdenetmall.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "take.mn",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://take.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Bestcomputers",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://bestcomputers.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Technozone",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://technozone.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Goyol Cashmere",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://goyolcashmere.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Apteka",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://apteka.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Playtime",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://playtimefestival.com/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Summit",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://summit.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Best Electronics",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://bestelectronics.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Flamme",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://flamme.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Cybercom",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://cybercom.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
                 "title": "Converse",
-                "tech": ["React", "GraphQl"],
+                "tech": ["React", "Ruby"],
                 "github": "",
                 "external": "https://allstars.mn/",
                 "show": "true"
@@ -249,10 +525,214 @@
           {
             "node": {
               "frontmatter": {
-                "title": "24auto.mn",
-                "tech": ["React", "NodeJs"],
+                "title": "intelmind.mn",
+                "tech": ["React", "Ruby"],
                 "github": "",
-                "external": "https://24auto.mn/",
+                "external": "https://intelmind.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "amex.mn",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://amex.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Urban Shop",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://urbanshop.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Fashion Republic",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://fashionrepublic.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Zary C2C",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://zary.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Lhamour",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://lhamour.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Tsetseg",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://tsetseg.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "100 ail",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://100ail.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Husug",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://husug.com/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Lattliv",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://lattliv.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Noyon Pizza",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://noyonpizza.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "tanpopo.mn",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://tanpopo.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "cody.mn",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://cody.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Angelina Voloshina",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://angelinavoloshina.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Shoppy Lux",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://shoppylux.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Simple Marketplace",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://simple.cody.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Dellcenter",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://dellcenter.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Amazonoos",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://amazonoos.com/",
                 "show": "true"
               },
               "html": "<p>Website</p>"
@@ -273,10 +753,46 @@
           {
             "node": {
               "frontmatter": {
+                "title": "24auto.mn",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://24auto.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
                 "title": "Wellbee",
                 "tech": ["React", "NodeJs"],
                 "github": "",
                 "external": "https://wellbeeshop.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Vista Store",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://vistastore.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Wineshop",
+                "tech": ["React", "Ruby"],
+                "github": "",
+                "external": "https://wineshop.mn/",
                 "show": "true"
               },
               "html": "<p>Website</p>"

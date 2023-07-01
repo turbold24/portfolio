@@ -71,7 +71,7 @@ module.exports = {
     mobile: true,
     reset: false,
     useDelay: 'always',
-    viewFactor: 0.25,
+    viewFactor: 0.1,
     viewOffset: { top: 0, right: 0, bottom: 0, left: 0 },
   }),
 };
