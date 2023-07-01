@@ -1,1 +1,721 @@
-{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"data":{"hero":{"edges":[{"node":{"frontmatter":{"title":"Hi, my name is","name":"Turbold Amar","subtitle":"I build things for the web.","contactText":"Get In Touch"},"html":"<p>I'm a software engineer based in Ulaanbaatar, specializing in building (and occasionally designing) exceptional, high-quality websites and applications.</p>"}}]},"about":{"edges":[{"node":{"frontmatter":{"title":"About Me","avatar":{"childImageSharp":{"fluid":{"tracedSVG":"data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='400'%20viewBox='0%200%20400%20400'%20preserveAspectRatio='none'%3e%3cpath%20d='M0%20200v200h401V0H0v200M185%2076c-3%203-4%203-12%204l-10-1-10-1c-7%201-12%202-19%205l-6%202v1l-2%201h-3l-3%201c-1%200-6%204-6%206l-2%202c-1-1-4%206-3%207l-1%201h-1v2c-2%201-3%208-4%2019%200%2013%200%2013-1%2011s-1-1-1%202l-1%205v5l1%202%202-2%203-4h5v1l-2%203-2%203v2c-2%201-2%207-1%207l1%201%202%203%202%203c0%201%201%202%203%201h29c6%202%2012%207%208%207l-2-1-2-3c-2-1-3-1-5%202-4%205-13%203-13-2%200-2-4-2-5-1-1%204-12%203-14-1l-5-4c-3-2-4-2-4%200-1%202-1%202-2%200s-1-2-1%200l-1%202v3l-1%202c-1-1-1%201-1%207v11l1%203%201%206a146%20146%200%20013%2014l3%209c2%209%204%2013%208%2020l3%209%202%203%202%203%202%204%201%203v2l1%202%202%202%202%202%202%203%207%207%207%209%207%206%206%204%202%202c1%201%202%202%207%202l12%201h9l2%201h12l14-2%205-2%202-1%204-1c2%200%202%200%201-2%200-2%200-2%201-1h3l2-2%208-2%202-1%201-2h1v5l-2%201h-2c0%203-3%204-3%202-1-1-1-1-1%201l-2%202-4%202-5%203a35%2035%200%2000-6%202h-2a498%20498%200%2001-38%2012c0%203%203%205%208%208%204%202%204%205%200%205-2%200-3%202-1%202v1c-3%200-3%204-1%207%202%201%202%202%201%203s0%203%204%205c1%201%201%201-1%201h-2l2%202%205%204c1%201%201%201-1%201l-6-3a388%20388%200%2001-16-14v6l2%206c3%206%206%2019%206%2022s-2%206-2%205l-3-6c-5-9-11-15-16-15-3%200%206%2019%2010%2022l6%204c4%204%207%206%2017%208%2012%204%2015%204%2025%200%2036-11%2064-36%2090-81a109%20109%200%200111-15c1-3%201-3-2-4l-27-14c-4-4-5-8-6-36v-24h6l9-1c4-3%2012-21%2013-30l3-12c5-17-2-38-12-34-3%201-8%2010-8%2015%200%202%200%202-1%201h-1l-2%207-2%208c-1%207-4%2017-5%2017l-1-6c1-8-2-29-3-37-2-8-4-11-10-18l-4-6-1-3-1-4-5-13-3-5c1-1%200-3-1-5l-2-4-2-4-3-2-1-1-3-2c-2%201-8-2-11-4-4-3-11-3-14-1-2%202-9%202-13%200l-10-1c-5%200-5%200-4-1%202-3-1-2-4%201m22%2088l-8%205%205-2c5-2%207-3%207%200%200%202%204%206%207%206s7-4%207-7c0-2%200-2%206-1%204%200%205%200%204-1h-28m-47%2088l-6%202-2%201c-3%200-6%202-5%204%201%201%207%202%208%200%202-2%2011-4%2018-4%209%200%2011-2%202-2l-8-1h-7'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e","aspectRatio":1,"src":"/static/71cda5438588d2977df557f02779929c/0a9c8/me.jpg","srcSet":"/static/71cda5438588d2977df557f02779929c/477ba/me.jpg 175w,\n/static/71cda5438588d2977df557f02779929c/06776/me.jpg 350w,\n/static/71cda5438588d2977df557f02779929c/0a9c8/me.jpg 500w","srcWebp":"/static/71cda5438588d2977df557f02779929c/9f4bf/me.webp","srcSetWebp":"/static/71cda5438588d2977df557f02779929c/9fca7/me.webp 175w,\n/static/71cda5438588d2977df557f02779929c/37a4e/me.webp 350w,\n/static/71cda5438588d2977df557f02779929c/9f4bf/me.webp 500w","sizes":"(max-width: 500px) 100vw, 500px"}}},"skills":["JavaScript (ES6+)","HTML & (S)CSS","React","React Native","Vue","Node.js","Express","GraphQL"]},"html":"<p>Hello! I'm Turbold, a software engineer based in Ulaanbaatar, who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.</p>\n<p>Shortly after graduating from <a href=\"https://www.num.edu.mn/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">National University of Mongolia</a>, I joined the engineering team at <a href=\"https://www.shoppy.mn/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">shoppy</a> where I work on a wide variety of interesting and meaningful projects on a daily basis.</p>\n<p>Here are a few technologies I've been working with recently:</p>"}}]},"jobs":{"edges":[{"node":{"frontmatter":{"title":"Senior Front-End Developer","company":"cody.mn","location":"Ulaanbaatar, Mongolia","range":"Feb 2021 - Present","url":"https://www.cody.mn/"},"html":"<ul>\n<li>Cody is a tech company that provides ultimate ecommerce platform.</li>\n</ul>"}},{"node":{"frontmatter":{"title":"Front End Developer","company":"shoppy.mn","location":"Ulaanbaatar, Mongolia","range":"Aug 2019 - Feb 2021","url":"https://www.shoppy.mn/"},"html":"<ul>\n<li>Write modern, performant, maintainable code for a diverse array of client and internal projects</li>\n<li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React.</li>\n<li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>\n</ul>"}},{"node":{"frontmatter":{"title":"Web Developer","company":"Tavan Bogd Group","location":"Ulaanbaatar, Mongolia","range":"Oct 2018 - Aug 2019","url":"http://tavanbogd.mn/"},"html":"<ul>\n<li>Developed and deployed daughter companies webites of <a href=\"http://tavanbogd.mn/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Tavan Bogd Group</a>.</li>\n</ul>"}},{"node":{"frontmatter":{"title":"UI Engineer","company":"TokTok Delivery","location":"Ulaanbaatar, Mongolia","range":"Oct 2018 - Aug 2019","url":"https://toktok.mn"},"html":"<ul>\n<li>TokTok is a delivery service in Ulaanbaatar based on mobile app and website to receive orders. You can think of it as <a href=\"https://www.ubereats.com/en-US/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Uber Eats</a> or <a href=\"https://honestbee.sg/groceries\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">HonestBee</a> of Mongolia.</li>\n<li>Worked with a variety of different languages, platforms, frameworks such as JavaScript, VueJS, Php, Laravel and AWS.</li>\n</ul>"}},{"node":{"frontmatter":{"title":"Growth Hacker & Data Analyst","company":"erxes Inc","location":"Ulaanbaatar, Mongolia","range":"Oct 2016 - Sep 2017","url":"https://erxes.io"},"html":"<ul>\n<li>Collaborated with a small team of experienced designers and developers to spearhead a new brand and CRM system for Enterprise Companies in Mongolia.</li>\n<li>Worked closely with designers and management team to develop, document, and manage the CRM and Marketing Website using React, Sass, and JavaScript</li>\n</ul>"}},{"node":{"frontmatter":{"title":"Research worker","company":"National University of Mongolia","location":"Ulaanbaatar, Mongolia","range":"Jan 2013 - Oct 2016","url":"https://www.num.edu.mn"},"html":"<p>Graduated from NUM in 2014 and employed by NUM as a research worker in Nuclear Engineering Department.</p>"}},{"node":{"frontmatter":{"title":"Trainee","company":"Japan Atomic Energy Agency","location":"Tokai, Japan","range":"July - Dec 2015","url":"https://www.jaea.go.jp/english/"},"html":"<p>Nuclear Engineering trainee at JAEA as a representative fellow from National University of Mongolia.</p>"}}]},"featured":{"edges":[{"node":{"frontmatter":{"title":"Shoppy.mn","cover":{"childImageSharp":{"fluid":{"tracedSVG":"data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='250'%20viewBox='0%200%20400%20250'%20preserveAspectRatio='none'%3e%3cpath%20d='M0%2018v17h39l361-1%201-17V0H0v18m60-2v4h133v-9H60v5m197%2021l-1%202-1%201c-1%200-2%204-1%206s5%203%205%201l-2-2-1-1c1-2%206-2%207-1l3%202%201%202h2c4-5-5-13-12-10m0%2014l-1%201c2%200%202%200%201%201l-1%202-1%202-4%201c-1%201-1%201%201%201l3%203c2%204%2011%203%2011-1h-1c-2%202-2%200%200-2%201-3%202-5%200-3l-4%201c-3%200-3%200-1-1v-1l1-1%203-1h-3c-2%200-2%200-1-1%202-1-1-2-3-1m-11%2013l-1%203-1%202-2%206-3%206c-2%200-1%202%202%204l1%202-1%201h1c2-2%203-1%203%202l3%203%202%201%202%201%201-1%202-1v2c2-2%206%203%206%208v4l-4-3c-5-2-11-4-11-2l-3%204c-3%203-4%204-2%204l2%201%202%201c1%201%201%201-1%201l-7-1%206%202h5v-5c0-5%201-5%201%201%200%203%201%203%202%203%202%200%208%208%208%2011l1%201v2c0%202%200%202%201%201l2-2%201%201v3h2l1%202c-1%201%200%202%201%203l1%202%203%204c3%202%202%204-1%202-2-1-6%200-6%201%200%203%202%204%207%204l10%201c8%201%2013-2%2015-9%202-5-2-13-9-20l-5-6-1-1-3-2c-2-2-3-27-1-27v-1c-2-2-2-2-1-5%201-5%200-5-2%200l-5%205-4%203-2%201c-2-1-8-12-8-15s-1-3-5%201l-4%203v-6c0-5%200-6%201-5%202%203%203%201%202-1-1-3-3-3-4%200m-32%2063v6c-1%204-4%2010-6%2010l-1%202c1%204%205%205%2011%203%206-1%208-3%204-3l-2%201-4%201c-2%200-3%200-2-1v-1l2-1v-3l3%201-1%201h6l-1-1-1-2%209-13c0-2-4%201-5%202%200%202-2%203-2%201l-4-3-4-1-2%201M72%20194c-4%200-4%201-4%2019%200%2017%200%2017%202%2018l3%201h-3c-2%200-3%204-1%206l131%201a5171%205171%200%2000126-3l-3-1%202-2%205-2c2%201%202%200%202-18v-18l-4-1H72m111%2038c0%203%200%203%205%203l16%201c13%200%2014%200%2014-4v-3h-35v3'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e","aspectRatio":1.6055045871559632,"src":"/static/08480baed193437ba1867fddc4fa3289/ea4ab/shoppy.jpg","srcSet":"/static/08480baed193437ba1867fddc4fa3289/477ba/shoppy.jpg 175w,\n/static/08480baed193437ba1867fddc4fa3289/06776/shoppy.jpg 350w,\n/static/08480baed193437ba1867fddc4fa3289/ea4ab/shoppy.jpg 700w,\n/static/08480baed193437ba1867fddc4fa3289/a9844/shoppy.jpg 918w","srcWebp":"/static/08480baed193437ba1867fddc4fa3289/89afa/shoppy.webp","srcSetWebp":"/static/08480baed193437ba1867fddc4fa3289/9fca7/shoppy.webp 175w,\n/static/08480baed193437ba1867fddc4fa3289/37a4e/shoppy.webp 350w,\n/static/08480baed193437ba1867fddc4fa3289/89afa/shoppy.webp 700w,\n/static/08480baed193437ba1867fddc4fa3289/1b162/shoppy.webp 918w","sizes":"(max-width: 700px) 100vw, 700px"}}},"tech":["React","Ant Design","Ruby","GraphQl","React Native"],"github":null,"external":"https://shoppy.mn/","show":"true"},"html":"<p>Монголын хамгийн том онлайн худалдааны платформ.</p>"}},{"node":{"frontmatter":{"title":"Zary","cover":{"childImageSharp":{"fluid":{"tracedSVG":"data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='250'%20viewBox='0%200%20400%20250'%20preserveAspectRatio='none'%3e%3cpath%20d='M0%204v4h401V0H0v4m58%2013c0%203-2%203-2%201l-1-2v2c-1%203-3%203-2%200%200-2%200-2-3-2l-3%203c0%203-1%204-1%201s0-3-3-2l-3%203-2%202v-2c1-3%201-3-1-3s-4%202-2%202v2c-3%203-2%204%206%202%206-1%208-2%208-3l1-3%201%201c-1%202%201%204%204%203%203%200%204%202%202%203l-1%202%202-1c2-1%203-11%201-11l-1%202m166-1h8v11h23V16l-20-1-11%201M34%2098l-1%2010v2h62v65H64v-8l1-8-7-1h-7v7c0%206%200%208-2%209-3%202-4%201-3-8v-8H33v18h155c139%200%20155%200%20156-2%202-1%202-4%202-16%201-35%200-64-1-66l-1-2H34v8m234%201l-1%2015c0%2018-1%2017%2018%2016h15v-30l-1%2014v15h-14l-15-1c-1-1-2-24-1-27%201-2%201-2%2015-2l15-1h-15l-16%201m-111%204l-3%201c-3%201-2%205%201%206l2%201a288%20288%200%200051-1c2%200%202-1%202-3%200-3%200-3-2-3l-3-1h-48m-32%2018l-1%203-4%201c-7%200-8%201-8%207%200%207%201%208%207%208%204%200%205%200%205%202%200%204%200%204%2058%204%2057%200%2057%200%2057-4%200-2%201-2%204-2%206%200%208-2%208-7%200-6-2-8-7-7-4%200-4%200-5-3l-1-3h-56l-57%201m234%200c-10%202-14%206-9%2010%201%201%202%202%201%203%200%203%201%203%204%201v-4l-1-2c2%200%205%203%205%205l-1%201-1%201v1l-5%202%201%201c1-1%201%201%201%204l4%202%204%201v-14l-1-13-2%201m-315%203c-10%200-11%201-5%201%208%201%2014%206%2011%2010l-1%205h2c0-4%201-5%202-5l-1%204v4c1%201%201%202-1%202-2%201-3%203-1%203%202%201-2%205-6%206l-7%201c-4-1-5-1-4%201l24%201c29%200%2027%201%2027-19%200-15%200-14-16-14H44m85%200l-1%209c0%207%201%2010%205%2010%203%200%204-2%204-11v-8l-4-1-4%201m10%200v10c1%208%202%2011%203%204%200-2%201-3%202-3s2%201%202%203c1%208%202%205%203-5l-1-10c-1%200-2%201-2%204l-2%204-2-4c0-4-2-5-3-3m13%200l-1%209c0%208%201%2010%206%2010l2%201%202%201%201-4-2-11c0-9-2-8-2%201l-1%208c-2%202-3%200-3-8%200-6-1-9-2-7m25%200c-2%202-1%2015%201%2017%205%206%2011-6%207-16-1-2-6-3-8-1m10-1l2%205v9c-2%203-2%205-1%205%201%201%201%200%202-2%202-4%203-4%204%200%200%202%201%203%202%203v-15c2-6%200-7-2-2l-1%203-1-3c-1-2-5-4-5-3m18%201c-2%201-1%205%201%205l1-1c0-3%202-2%203%200l-1%203c-2%201-2%203%200%203l1%203c-1%203-3%204-3%201l-1-2c-3%200-2%205%200%206h5c2-2%202-16%201-18h-7m22%200v18c1%201%203-1%203-3-1-2%200-4%202-4%203-1%205-5%203-9-1-2-6-4-8-2M34%20137l-1%2010c0%203%200%204%202%204l3-1c0-2%202-2%205-2h4v-17h-3c-3%200-4%201-5%202h-1l-2-2c-2%200-2%201-2%206m249-1l15%201c2%202%202%2027%200%2029h-28c-2-1-2-23-1-26%201-4%200-6-1-2v28c1%202%202%202%2015%202l16-1v-31l-15-1h-14l13%201m38%200c11%200%2014%201%2015%202%202%202%201%2027-1%2028h-27c-2-1-3-27-1-29v-1c-2%201-3%2028-1%2031%202%202%2028%202%2030-1%202-1%202-4%202-14%200-18%201-17-17-17h-13l13%201m-186%2072l-4%201c-3%201-3%202-4%208l-1%207-6%204-6%203h3l14%201h10v-24h-6m26%203c-3%202-5%204-6%209-3%208-3%2013%201%2013l2-2h1c1%202%203%202%209%202h9l1-10c0-11%200-13-3-13l-2-1c-2-2-8-1-12%202m33-2c-2%202-1%2023%200%2024l11-1h10v-10c0-7%200-10-2-11-1-2-1-2%201-2%201-1-3-1-9-1l-11%201m33%203l-1%2011c0%208%201%2011%207%209l11-1h8v-23h-25v4m36%202c0%2011%200%2015%202%2012l6%203c5%203%205%203%2011%202%205%200%206-1%206-2%200-2%200-2-6-1-5%200-6%200-12-3s-6-3-6-7c1-4%202-4%209-4%208%200%2012-1%2012-4%200-2%200-2-11-2h-11v6m75%205c0%2011%200%2011%202%2011l3%201%208%202c10%200%2011%200%2010-12%200-8%200-9-2-9l-3-2c0-2-1-2-9-2h-9v11m-248-9l-4%2021%209%201h9l-1-10c0-10-1-13-4-13v2h-3c-3-2-4-2-6-1m-36%2011c0%202-3%203-4%201l-2-2-1%202-1%201c-2%200-2%201-2%205v4h5c4%200%204%200%204-3s0-3%203-3c2%200%202%200%202%203v3c1%201%208%200%209-2%200-2-1-9-2-7-2%203-8%201-7-3l-2-2c-1%200-2%201-2%203'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e","aspectRatio":1.6055045871559632,"src":"/static/989920b83f988dd32c4536b341e60b3b/ea4ab/zary.jpg","srcSet":"/static/989920b83f988dd32c4536b341e60b3b/477ba/zary.jpg 175w,\n/static/989920b83f988dd32c4536b341e60b3b/06776/zary.jpg 350w,\n/static/989920b83f988dd32c4536b341e60b3b/ea4ab/zary.jpg 700w,\n/static/989920b83f988dd32c4536b341e60b3b/a9844/zary.jpg 918w","srcWebp":"/static/989920b83f988dd32c4536b341e60b3b/89afa/zary.webp","srcSetWebp":"/static/989920b83f988dd32c4536b341e60b3b/9fca7/zary.webp 175w,\n/static/989920b83f988dd32c4536b341e60b3b/37a4e/zary.webp 350w,\n/static/989920b83f988dd32c4536b341e60b3b/89afa/zary.webp 700w,\n/static/989920b83f988dd32c4536b341e60b3b/1b162/zary.webp 918w","sizes":"(max-width: 700px) 100vw, 700px"}}},"tech":["React.js","Aws","Ruby"],"github":null,"external":"https://zary.mn","show":"true"},"html":"<p>Онлайн худалдааг хүн бүрт хүртээмжтэй буюу C2C платформ.</p>"}},{"node":{"frontmatter":{"title":"Enaadam","cover":{"childImageSharp":{"fluid":{"tracedSVG":"data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='250'%20viewBox='0%200%20400%20250'%20preserveAspectRatio='none'%3e%3cpath%20d='M0%2075v74h401V0H0v75m102-16c-1%203-3%203-3%200s-3-2-4%201c0%202-2%203-2%201%200-1-1-2-2-1v-1l1-2c-1-1-3%201-3%204-1%202-1%202%204%202h19c3%200%204-1%204-2h1c0%202%202%203%202%201h1l1%201%201-3-1-3c0-2-2-1-2%201l-1%201-1-1c0-2-2-1-3%202v2l-2-3c-1-4-2-4-3%200-2%203-2%203-2%201%200-4-5-5-5-1M82%20171v7l1%201v2c-3%202-2%204%200%204s3%202%203%204l-3%201c-1%200-2%200-1%201l2%201c2%200%202%200%201%202l-2%201c-1%200-2%203-1%2012v13h12c10%200%2013%200%2014-2h2l-1%201c-1%201%200%201%202%201l4-1h2l22%201h18v-10l-1-11-1%202c0%202-1%202-6%202-6%200-6%200-6-2%200-3%200-3%204-3l5%201h1c0-1%201-2%203-2l2-1-1-2-1-1h1l1-3-1-3-1-1v-2c2%200%202-5%201-7-2-2-6%201-5%203l-1%203c-1%200-1%201%201%201l2%201c-1%202-3%202-5%200s-2-2-2%200l-2%202v-1l-1-1-1-2c0-2%200-2%201-1%200%202%202%202%202-1%200-1%200-2%202-1v-1c-1-1-1-1%201-1%201%200%202%200%201-2%200-1%201-2%203-2%203%200%205-1%204-3s-6-1-6%201c0%201-2%202-3%201l-2%201h-6c-1%201-1%201-1-1%201-3%201-3-1-3-3%200-5%202-3%203v2c-3%200-2%202%200%202v2l2%201c0%202%200%202-2%201-3-2-4-5-3-6v-1h-3v-1l1-1c1-1%200-2-1-2v1l-1%201-1-1c0-2-6-1-8%201-1%202-2%202-3%202-2%200-3-2-1-2l1-1h-16c-5%200-5%200-5%203s-1%204-2%202l-4-2-3-1%202-1c2%201%204-1%201-1h-7m79%207v9h5c11%202%209%203-3%203-2%200-2%202-2%2012v11l5%201%208%201c2%200%203%201%203%202l-1%201h-1c0%201%202%202%2014%202h14l-10-3-12-1c-1%201-2%201-2-1l1-1v-1l-4-1c-3%201-12-1-13-2h9l4%201%2015%201-1%202-1%202%202-1h1l4-1c3-2%204-2%201%201-1%201-1%201%201%201h3c-1%201%200%201%201%201l2-1h1c1%202%205%203%206%202l1-1%201%201c-1%201%200%201%201%201l1-1h4l2%201%208%201h8v-50h-4l-4%201h-7c-1-2-7%200-8%202-2%201-2%201-2-1-1-1-2-2-4-1h-6l-2%202c1%205-1%205-2%200-1-2-1-3-2-2h-6l-5%201h-4c1-2-13-2-14%200h-1l-3-1c-2-1-2-1-2%207m-57-4c0%202%202%203%204%203l3%201%201%203h-1c-2-3-3-2-2%200l3%202c1%201%201%201-2%201l-5-2c-2-1-8-1-10%201-2%201-2%201%202%201%205-1%205-1%206%201%200%202%204%203%208%201h3c2-1%204-3%203-5%200-1-1-2-3-1-1%200-2%200-1-1l1-2c0-2%200-2-1-1%200%202-2%201-1-1%200-2-1-3-2-1l-3%201v-1l-1-1-2%201m160%202l27%201%2026-1-26-1-27%201m-15%2010c0%201-1%202-3%201-3%200-3%200-3%202v2h-1l-1-1-1%207v8h8c9%200%209%200%208-2v-2l1%202c1%202%202%202%2020%202%2017%200%2022-1%2014-2-3-1-2-1%201-1h3l1-1%201-4%201-3c1%201%203-3%202-4l1-1c1%200%202%204%202%209-1%203%200%204%201%204l1%202%202%201%202-1c-1-3%201-4%203-3l1%203c-1%201%200%201%201%201%203%200%203%200%203-10v-10h-59v2l-1%203v-3c0-2-1-2-4-2l-4%201'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e","aspectRatio":1.6055045871559632,"src":"/static/7e159c77b13ab295c0f3567b4c998767/60290/enaadam.png","srcSet":"/static/7e159c77b13ab295c0f3567b4c998767/847ef/enaadam.png 175w,\n/static/7e159c77b13ab295c0f3567b4c998767/91cba/enaadam.png 350w,\n/static/7e159c77b13ab295c0f3567b4c998767/60290/enaadam.png 700w,\n/static/7e159c77b13ab295c0f3567b4c998767/cdf73/enaadam.png 918w","srcWebp":"/static/7e159c77b13ab295c0f3567b4c998767/89afa/enaadam.webp","srcSetWebp":"/static/7e159c77b13ab295c0f3567b4c998767/9fca7/enaadam.webp 175w,\n/static/7e159c77b13ab295c0f3567b4c998767/37a4e/enaadam.webp 350w,\n/static/7e159c77b13ab295c0f3567b4c998767/89afa/enaadam.webp 700w,\n/static/7e159c77b13ab295c0f3567b4c998767/1b162/enaadam.webp 918w","sizes":"(max-width: 700px) 100vw, 700px"}}},"tech":["React.js","Aws","Ruby"],"github":null,"external":"https://enaadam.mn","show":"true"},"html":"<p>Монголд анх удаа наадмын тасалбарын онлайнаар борлуулав.</p>"}}]},"projects":{"edges":[{"node":{"frontmatter":{"title":"Autoparts.mn","tech":["React","GraphQl"],"github":"","external":"https://autoparts.mn/","show":"true"},"html":"<p>Оригинал сэлбэгийг шууд үйлдвэрээс нь</p>"}},{"node":{"frontmatter":{"title":"24auto.mn","tech":["React","NodeJs"],"github":"","external":"https://24auto.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Ayanchin","tech":["React","NodeJs"],"github":"","external":"https://ayanchin.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Roseshop","tech":["React","NodeJs"],"github":"","external":"https://roseshop.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Wellbee","tech":["React","NodeJs"],"github":"","external":"https://wellbee.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Michelamazonka","tech":["React","NodeJs"],"github":"","external":"https://michelamazonka.com/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"PC-MALL","tech":["React","NodeJs"],"github":"","external":"https://pc-mall.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"TokTok","tech":["React","NodeJs"],"github":"","external":"https://toktok.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Oeo","tech":["React","NodeJs"],"github":"","external":"https://oeo.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Btf","tech":["React","NodeJs"],"github":"","external":"https://btf.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Mana","tech":["React","NodeJs"],"github":"","external":"https://mana.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Ulaanbaatar passport","tech":["React","NodeJs"],"github":"","external":"https://ubpassport.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Gerplace","tech":["React","NodeJs"],"github":"","external":"https://gerplace.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Mild","tech":["React","NodeJs"],"github":"","external":"https://mild.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Homeshopping","tech":["React","NodeJs"],"github":"","external":"https://homeshopping.mn/","show":"true"},"html":"<p>Ecommerce website</p>"}},{"node":{"frontmatter":{"title":"Shoez","tech":["React","NodeJs"],"github":"","external":"https://shoez.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Tumurbaatar Photographer","tech":["React","NodeJs"],"github":"","external":"https://tumurbaatar.com/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Comf","tech":["React","NodeJs"],"github":"","external":"https://comf.mn/","show":"true"},"html":"<p>Ecommerce website</p>"}},{"node":{"frontmatter":{"title":"Sarlagleather","tech":["React","NodeJs"],"github":"","external":"https://sarlagleather.com/","show":"true"},"html":"<p>Ecommerce website</p>"}},{"node":{"frontmatter":{"title":"The most successful ecommerce in Mongolia","tech":["React","NodeJs"],"github":"","external":"https://shoppy.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Xyyp Music Festival","tech":["React","NodeJs"],"github":"","external":"https://xyypmusicfestival.com/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Worldwine Ulaanbaatar","tech":["React","NodeJs"],"github":"","external":"http://premiumtaste.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Baby World Mongolia","tech":["React","NodeJs"],"github":"","external":"https://babyworld.mn/","show":"true"},"html":"<p>Ecommerce website</p>"}},{"node":{"frontmatter":{"title":"Carters Mongolia","tech":["React","NodeJs"],"github":"","external":"https://carters.mn/","show":"true"},"html":"<p>Ecommerce website</p>"}},{"node":{"frontmatter":{"title":"Homemall","tech":["React","NodeJs"],"github":"","external":"https://homemall.mn/","show":"true"},"html":"<p>Ecommerce website</p>"}},{"node":{"frontmatter":{"title":"Sansar supermarket","tech":["React","NodeJs"],"github":"","external":"https://esansar.mn/","show":"true"},"html":"<p>Ecommerce website</p>"}},{"node":{"frontmatter":{"title":"Grocery Online","tech":["React","NodeJs"],"github":"","external":"https://grocery.shoppy.mn/","show":"true"},"html":"<p>Website</p>"}},{"node":{"frontmatter":{"title":"Nature Republic","tech":["React","NodeJs"],"github":"","external":"https://naturerepublic.mn/","show":"true"},"html":"<p>Ecommerce website</p>"}},{"node":{"frontmatter":{"title":"Metro Express","tech":["React","Ruby"],"github":"","external":"https://metro-express.mn/","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"Joinme","tech":["React","NodeJs"],"github":"","external":"https://joinme.mn/","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"Amway Mongolia","tech":["React","NodeJs"],"github":"","external":"https://ammay.mn/","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"Flower Greeting","tech":["React","NodeJs"],"github":"","external":"https://flower.mn","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"Deutsche Welle Mongolia","tech":["React","NodeJs"],"github":"","external":"https://haus.mn/","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"Baigal Jewelry","tech":["React","NodeJs"],"github":"","external":"https://baigalhouse.com/","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"SmartStore","tech":["React","NodeJs"],"github":"","external":"https://smartstore.mn/","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"Cose Cosmetics","tech":["React","NodeJs"],"github":"","external":"https://cose.mn","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"Tavannuden","tech":["React","NodeJs"],"github":"","external":"https://tavannuden.com/","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"IT Store","tech":["React","NodeJs"],"github":"","external":"https://itstore.mn","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"Inktop","tech":["React","NodeJs"],"github":"","external":"https://inktop.mn/","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"Next Electronics","tech":["React","NodeJs"],"github":"","external":"https://next.mn","show":"true"},"html":"<p>Ecommerce website.</p>"}},{"node":{"frontmatter":{"title":"Tavan Bogd Washyoku","tech":["PHP"],"github":"","external":"http://washyoku.tavanbogd.mn/","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"title":"Tavan Bogd Group","tech":["PHP"],"github":"","external":"http://tavanbogd.com/","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"title":"Xerox","tech":["PHP"],"github":"","external":"http://xerox.mn/","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"title":"Smart Electronics","tech":["PHP"],"github":"","external":"http://smartcenter.mn/","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"title":"Food Service LLC","tech":["PHP"],"github":"","external":"http://foodservice.mn/","show":"true"},"html":"<p>Company introductory website.</p>"}},{"node":{"frontmatter":{"title":"Toyota Tavanbogd","tech":["PHP"],"github":"","external":"http://toyota-tavanbogd.mn/","show":"true"},"html":"<p>Information website</p>"}},{"node":{"frontmatter":{"title":"Narumi Makeup Salon","tech":["PHP","WordPress"],"github":"","external":"https://www.narumi.mn/","show":"true"},"html":"<p>WordPress website with online ordering system.</p>"}}]},"contact":{"edges":[{"node":{"frontmatter":{"title":"Get In Touch"},"html":"<p>Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!</p>"}}]}},"pageContext":{}},"staticQueryHashes":["3115057458"]}
+{
+  "componentChunkName": "component---src-pages-index-js",
+  "path": "/",
+  "result": {
+    "data": {
+      "hero": {
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Hi, my name is",
+                "name": "Turbold Amar",
+                "subtitle": "I build things for the web.",
+                "contactText": "Get In Touch"
+              },
+              "html": "<p>I'm a software engineer based in Ulaanbaatar, specializing in building (and occasionally designing) exceptional, high-quality websites and applications.</p>"
+            }
+          }
+        ]
+      },
+      "about": {
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "title": "About Me",
+                "avatar": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='400'%20viewBox='0%200%20400%20400'%20preserveAspectRatio='none'%3e%3cpath%20d='M0%20200v200h401V0H0v200M185%2076c-3%203-4%203-12%204l-10-1-10-1c-7%201-12%202-19%205l-6%202v1l-2%201h-3l-3%201c-1%200-6%204-6%206l-2%202c-1-1-4%206-3%207l-1%201h-1v2c-2%201-3%208-4%2019%200%2013%200%2013-1%2011s-1-1-1%202l-1%205v5l1%202%202-2%203-4h5v1l-2%203-2%203v2c-2%201-2%207-1%207l1%201%202%203%202%203c0%201%201%202%203%201h29c6%202%2012%207%208%207l-2-1-2-3c-2-1-3-1-5%202-4%205-13%203-13-2%200-2-4-2-5-1-1%204-12%203-14-1l-5-4c-3-2-4-2-4%200-1%202-1%202-2%200s-1-2-1%200l-1%202v3l-1%202c-1-1-1%201-1%207v11l1%203%201%206a146%20146%200%20013%2014l3%209c2%209%204%2013%208%2020l3%209%202%203%202%203%202%204%201%203v2l1%202%202%202%202%202%202%203%207%207%207%209%207%206%206%204%202%202c1%201%202%202%207%202l12%201h9l2%201h12l14-2%205-2%202-1%204-1c2%200%202%200%201-2%200-2%200-2%201-1h3l2-2%208-2%202-1%201-2h1v5l-2%201h-2c0%203-3%204-3%202-1-1-1-1-1%201l-2%202-4%202-5%203a35%2035%200%2000-6%202h-2a498%20498%200%2001-38%2012c0%203%203%205%208%208%204%202%204%205%200%205-2%200-3%202-1%202v1c-3%200-3%204-1%207%202%201%202%202%201%203s0%203%204%205c1%201%201%201-1%201h-2l2%202%205%204c1%201%201%201-1%201l-6-3a388%20388%200%2001-16-14v6l2%206c3%206%206%2019%206%2022s-2%206-2%205l-3-6c-5-9-11-15-16-15-3%200%206%2019%2010%2022l6%204c4%204%207%206%2017%208%2012%204%2015%204%2025%200%2036-11%2064-36%2090-81a109%20109%200%200111-15c1-3%201-3-2-4l-27-14c-4-4-5-8-6-36v-24h6l9-1c4-3%2012-21%2013-30l3-12c5-17-2-38-12-34-3%201-8%2010-8%2015%200%202%200%202-1%201h-1l-2%207-2%208c-1%207-4%2017-5%2017l-1-6c1-8-2-29-3-37-2-8-4-11-10-18l-4-6-1-3-1-4-5-13-3-5c1-1%200-3-1-5l-2-4-2-4-3-2-1-1-3-2c-2%201-8-2-11-4-4-3-11-3-14-1-2%202-9%202-13%200l-10-1c-5%200-5%200-4-1%202-3-1-2-4%201m22%2088l-8%205%205-2c5-2%207-3%207%200%200%202%204%206%207%206s7-4%207-7c0-2%200-2%206-1%204%200%205%200%204-1h-28m-47%2088l-6%202-2%201c-3%200-6%202-5%204%201%201%207%202%208%200%202-2%2011-4%2018-4%209%200%2011-2%202-2l-8-1h-7'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                      "aspectRatio": 1,
+                      "src": "/static/71cda5438588d2977df557f02779929c/0a9c8/me.jpg",
+                      "srcSet": "/static/71cda5438588d2977df557f02779929c/477ba/me.jpg 175w,\n/static/71cda5438588d2977df557f02779929c/06776/me.jpg 350w,\n/static/71cda5438588d2977df557f02779929c/0a9c8/me.jpg 500w",
+                      "srcWebp": "/static/71cda5438588d2977df557f02779929c/9f4bf/me.webp",
+                      "srcSetWebp": "/static/71cda5438588d2977df557f02779929c/9fca7/me.webp 175w,\n/static/71cda5438588d2977df557f02779929c/37a4e/me.webp 350w,\n/static/71cda5438588d2977df557f02779929c/9f4bf/me.webp 500w",
+                      "sizes": "(max-width: 500px) 100vw, 500px"
+                    }
+                  }
+                },
+                "skills": [
+                  "JavaScript (ES6+)",
+                  "HTML & (S)CSS",
+                  "React",
+                  "React Native",
+                  "Vue",
+                  "Node.js",
+                  "Express",
+                  "GraphQL"
+                ]
+              },
+              "html": "<p>Hello! I'm Turbold, a software engineer based in Ulaanbaatar, who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.</p>\n<p>Shortly after graduating from <a href=\"https://www.num.edu.mn/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">National University of Mongolia</a>, I joined the engineering team at <a href=\"https://www.shoppy.mn/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">shoppy</a> where I work on a wide variety of interesting and meaningful projects on a daily basis.</p>\n<p>Here are a few technologies I've been working with recently:</p>"
+            }
+          }
+        ]
+      },
+      "jobs": {
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Senior Front-End Developer",
+                "company": "cody.mn",
+                "location": "Ulaanbaatar, Mongolia",
+                "range": "Feb 2021 - Present",
+                "url": "https://www.cody.mn/"
+              },
+              "html": "<ul>\n<li>Cody is a tech company that provides ultimate ecommerce platform.</li>\n</ul>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Front End Developer",
+                "company": "shoppy.mn",
+                "location": "Ulaanbaatar, Mongolia",
+                "range": "Aug 2019 - Feb 2021",
+                "url": "https://www.shoppy.mn/"
+              },
+              "html": "<ul>\n<li>Write modern, performant, maintainable code for a diverse array of client and internal projects</li>\n<li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React.</li>\n<li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>\n</ul>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Web Developer",
+                "company": "Tavan Bogd Group",
+                "location": "Ulaanbaatar, Mongolia",
+                "range": "Oct 2018 - Aug 2019",
+                "url": "http://tavanbogd.mn/"
+              },
+              "html": "<ul>\n<li>Developed and deployed daughter companies webites of <a href=\"http://tavanbogd.mn/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Tavan Bogd Group</a>.</li>\n</ul>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "UI Engineer",
+                "company": "TokTok Delivery",
+                "location": "Ulaanbaatar, Mongolia",
+                "range": "Oct 2018 - Aug 2019",
+                "url": "https://toktok.mn"
+              },
+              "html": "<ul>\n<li>TokTok is a delivery service in Ulaanbaatar based on mobile app and website to receive orders. You can think of it as <a href=\"https://www.ubereats.com/en-US/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Uber Eats</a> or <a href=\"https://honestbee.sg/groceries\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">HonestBee</a> of Mongolia.</li>\n<li>Worked with a variety of different languages, platforms, frameworks such as JavaScript, VueJS, Php, Laravel and AWS.</li>\n</ul>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Growth Hacker & Data Analyst",
+                "company": "erxes Inc",
+                "location": "Ulaanbaatar, Mongolia",
+                "range": "Oct 2016 - Sep 2017",
+                "url": "https://erxes.io"
+              },
+              "html": "<ul>\n<li>Collaborated with a small team of experienced designers and developers to spearhead a new brand and CRM system for Enterprise Companies in Mongolia.</li>\n<li>Worked closely with designers and management team to develop, document, and manage the CRM and Marketing Website using React, Sass, and JavaScript</li>\n</ul>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Research worker",
+                "company": "National University of Mongolia",
+                "location": "Ulaanbaatar, Mongolia",
+                "range": "Jan 2013 - Oct 2016",
+                "url": "https://www.num.edu.mn"
+              },
+              "html": "<p>Graduated from NUM in 2014 and employed by NUM as a research worker in Nuclear Engineering Department.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Trainee",
+                "company": "Japan Atomic Energy Agency",
+                "location": "Tokai, Japan",
+                "range": "July - Dec 2015",
+                "url": "https://www.jaea.go.jp/english/"
+              },
+              "html": "<p>Nuclear Engineering trainee at JAEA as a representative fellow from National University of Mongolia.</p>"
+            }
+          }
+        ]
+      },
+      "featured": {
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Shoppy.mn",
+                "cover": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='250'%20viewBox='0%200%20400%20250'%20preserveAspectRatio='none'%3e%3cpath%20d='M0%2018v17h39l361-1%201-17V0H0v18m60-2v4h133v-9H60v5m197%2021l-1%202-1%201c-1%200-2%204-1%206s5%203%205%201l-2-2-1-1c1-2%206-2%207-1l3%202%201%202h2c4-5-5-13-12-10m0%2014l-1%201c2%200%202%200%201%201l-1%202-1%202-4%201c-1%201-1%201%201%201l3%203c2%204%2011%203%2011-1h-1c-2%202-2%200%200-2%201-3%202-5%200-3l-4%201c-3%200-3%200-1-1v-1l1-1%203-1h-3c-2%200-2%200-1-1%202-1-1-2-3-1m-11%2013l-1%203-1%202-2%206-3%206c-2%200-1%202%202%204l1%202-1%201h1c2-2%203-1%203%202l3%203%202%201%202%201%201-1%202-1v2c2-2%206%203%206%208v4l-4-3c-5-2-11-4-11-2l-3%204c-3%203-4%204-2%204l2%201%202%201c1%201%201%201-1%201l-7-1%206%202h5v-5c0-5%201-5%201%201%200%203%201%203%202%203%202%200%208%208%208%2011l1%201v2c0%202%200%202%201%201l2-2%201%201v3h2l1%202c-1%201%200%202%201%203l1%202%203%204c3%202%202%204-1%202-2-1-6%200-6%201%200%203%202%204%207%204l10%201c8%201%2013-2%2015-9%202-5-2-13-9-20l-5-6-1-1-3-2c-2-2-3-27-1-27v-1c-2-2-2-2-1-5%201-5%200-5-2%200l-5%205-4%203-2%201c-2-1-8-12-8-15s-1-3-5%201l-4%203v-6c0-5%200-6%201-5%202%203%203%201%202-1-1-3-3-3-4%200m-32%2063v6c-1%204-4%2010-6%2010l-1%202c1%204%205%205%2011%203%206-1%208-3%204-3l-2%201-4%201c-2%200-3%200-2-1v-1l2-1v-3l3%201-1%201h6l-1-1-1-2%209-13c0-2-4%201-5%202%200%202-2%203-2%201l-4-3-4-1-2%201M72%20194c-4%200-4%201-4%2019%200%2017%200%2017%202%2018l3%201h-3c-2%200-3%204-1%206l131%201a5171%205171%200%2000126-3l-3-1%202-2%205-2c2%201%202%200%202-18v-18l-4-1H72m111%2038c0%203%200%203%205%203l16%201c13%200%2014%200%2014-4v-3h-35v3'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                      "aspectRatio": 1.6055045871559632,
+                      "src": "/static/08480baed193437ba1867fddc4fa3289/ea4ab/shoppy.jpg",
+                      "srcSet": "/static/08480baed193437ba1867fddc4fa3289/477ba/shoppy.jpg 175w,\n/static/08480baed193437ba1867fddc4fa3289/06776/shoppy.jpg 350w,\n/static/08480baed193437ba1867fddc4fa3289/ea4ab/shoppy.jpg 700w,\n/static/08480baed193437ba1867fddc4fa3289/a9844/shoppy.jpg 918w",
+                      "srcWebp": "/static/08480baed193437ba1867fddc4fa3289/89afa/shoppy.webp",
+                      "srcSetWebp": "/static/08480baed193437ba1867fddc4fa3289/9fca7/shoppy.webp 175w,\n/static/08480baed193437ba1867fddc4fa3289/37a4e/shoppy.webp 350w,\n/static/08480baed193437ba1867fddc4fa3289/89afa/shoppy.webp 700w,\n/static/08480baed193437ba1867fddc4fa3289/1b162/shoppy.webp 918w",
+                      "sizes": "(max-width: 700px) 100vw, 700px"
+                    }
+                  }
+                },
+                "tech": ["React", "Ant Design", "Ruby", "GraphQl", "React Native"],
+                "github": null,
+                "external": "https://shoppy.mn/",
+                "show": "true"
+              },
+              "html": "<p>Монголын хамгийн том онлайн худалдааны платформ.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Zary",
+                "cover": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='250'%20viewBox='0%200%20400%20250'%20preserveAspectRatio='none'%3e%3cpath%20d='M0%204v4h401V0H0v4m58%2013c0%203-2%203-2%201l-1-2v2c-1%203-3%203-2%200%200-2%200-2-3-2l-3%203c0%203-1%204-1%201s0-3-3-2l-3%203-2%202v-2c1-3%201-3-1-3s-4%202-2%202v2c-3%203-2%204%206%202%206-1%208-2%208-3l1-3%201%201c-1%202%201%204%204%203%203%200%204%202%202%203l-1%202%202-1c2-1%203-11%201-11l-1%202m166-1h8v11h23V16l-20-1-11%201M34%2098l-1%2010v2h62v65H64v-8l1-8-7-1h-7v7c0%206%200%208-2%209-3%202-4%201-3-8v-8H33v18h155c139%200%20155%200%20156-2%202-1%202-4%202-16%201-35%200-64-1-66l-1-2H34v8m234%201l-1%2015c0%2018-1%2017%2018%2016h15v-30l-1%2014v15h-14l-15-1c-1-1-2-24-1-27%201-2%201-2%2015-2l15-1h-15l-16%201m-111%204l-3%201c-3%201-2%205%201%206l2%201a288%20288%200%200051-1c2%200%202-1%202-3%200-3%200-3-2-3l-3-1h-48m-32%2018l-1%203-4%201c-7%200-8%201-8%207%200%207%201%208%207%208%204%200%205%200%205%202%200%204%200%204%2058%204%2057%200%2057%200%2057-4%200-2%201-2%204-2%206%200%208-2%208-7%200-6-2-8-7-7-4%200-4%200-5-3l-1-3h-56l-57%201m234%200c-10%202-14%206-9%2010%201%201%202%202%201%203%200%203%201%203%204%201v-4l-1-2c2%200%205%203%205%205l-1%201-1%201v1l-5%202%201%201c1-1%201%201%201%204l4%202%204%201v-14l-1-13-2%201m-315%203c-10%200-11%201-5%201%208%201%2014%206%2011%2010l-1%205h2c0-4%201-5%202-5l-1%204v4c1%201%201%202-1%202-2%201-3%203-1%203%202%201-2%205-6%206l-7%201c-4-1-5-1-4%201l24%201c29%200%2027%201%2027-19%200-15%200-14-16-14H44m85%200l-1%209c0%207%201%2010%205%2010%203%200%204-2%204-11v-8l-4-1-4%201m10%200v10c1%208%202%2011%203%204%200-2%201-3%202-3s2%201%202%203c1%208%202%205%203-5l-1-10c-1%200-2%201-2%204l-2%204-2-4c0-4-2-5-3-3m13%200l-1%209c0%208%201%2010%206%2010l2%201%202%201%201-4-2-11c0-9-2-8-2%201l-1%208c-2%202-3%200-3-8%200-6-1-9-2-7m25%200c-2%202-1%2015%201%2017%205%206%2011-6%207-16-1-2-6-3-8-1m10-1l2%205v9c-2%203-2%205-1%205%201%201%201%200%202-2%202-4%203-4%204%200%200%202%201%203%202%203v-15c2-6%200-7-2-2l-1%203-1-3c-1-2-5-4-5-3m18%201c-2%201-1%205%201%205l1-1c0-3%202-2%203%200l-1%203c-2%201-2%203%200%203l1%203c-1%203-3%204-3%201l-1-2c-3%200-2%205%200%206h5c2-2%202-16%201-18h-7m22%200v18c1%201%203-1%203-3-1-2%200-4%202-4%203-1%205-5%203-9-1-2-6-4-8-2M34%20137l-1%2010c0%203%200%204%202%204l3-1c0-2%202-2%205-2h4v-17h-3c-3%200-4%201-5%202h-1l-2-2c-2%200-2%201-2%206m249-1l15%201c2%202%202%2027%200%2029h-28c-2-1-2-23-1-26%201-4%200-6-1-2v28c1%202%202%202%2015%202l16-1v-31l-15-1h-14l13%201m38%200c11%200%2014%201%2015%202%202%202%201%2027-1%2028h-27c-2-1-3-27-1-29v-1c-2%201-3%2028-1%2031%202%202%2028%202%2030-1%202-1%202-4%202-14%200-18%201-17-17-17h-13l13%201m-186%2072l-4%201c-3%201-3%202-4%208l-1%207-6%204-6%203h3l14%201h10v-24h-6m26%203c-3%202-5%204-6%209-3%208-3%2013%201%2013l2-2h1c1%202%203%202%209%202h9l1-10c0-11%200-13-3-13l-2-1c-2-2-8-1-12%202m33-2c-2%202-1%2023%200%2024l11-1h10v-10c0-7%200-10-2-11-1-2-1-2%201-2%201-1-3-1-9-1l-11%201m33%203l-1%2011c0%208%201%2011%207%209l11-1h8v-23h-25v4m36%202c0%2011%200%2015%202%2012l6%203c5%203%205%203%2011%202%205%200%206-1%206-2%200-2%200-2-6-1-5%200-6%200-12-3s-6-3-6-7c1-4%202-4%209-4%208%200%2012-1%2012-4%200-2%200-2-11-2h-11v6m75%205c0%2011%200%2011%202%2011l3%201%208%202c10%200%2011%200%2010-12%200-8%200-9-2-9l-3-2c0-2-1-2-9-2h-9v11m-248-9l-4%2021%209%201h9l-1-10c0-10-1-13-4-13v2h-3c-3-2-4-2-6-1m-36%2011c0%202-3%203-4%201l-2-2-1%202-1%201c-2%200-2%201-2%205v4h5c4%200%204%200%204-3s0-3%203-3c2%200%202%200%202%203v3c1%201%208%200%209-2%200-2-1-9-2-7-2%203-8%201-7-3l-2-2c-1%200-2%201-2%203'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                      "aspectRatio": 1.6055045871559632,
+                      "src": "/static/989920b83f988dd32c4536b341e60b3b/ea4ab/zary.jpg",
+                      "srcSet": "/static/989920b83f988dd32c4536b341e60b3b/477ba/zary.jpg 175w,\n/static/989920b83f988dd32c4536b341e60b3b/06776/zary.jpg 350w,\n/static/989920b83f988dd32c4536b341e60b3b/ea4ab/zary.jpg 700w,\n/static/989920b83f988dd32c4536b341e60b3b/a9844/zary.jpg 918w",
+                      "srcWebp": "/static/989920b83f988dd32c4536b341e60b3b/89afa/zary.webp",
+                      "srcSetWebp": "/static/989920b83f988dd32c4536b341e60b3b/9fca7/zary.webp 175w,\n/static/989920b83f988dd32c4536b341e60b3b/37a4e/zary.webp 350w,\n/static/989920b83f988dd32c4536b341e60b3b/89afa/zary.webp 700w,\n/static/989920b83f988dd32c4536b341e60b3b/1b162/zary.webp 918w",
+                      "sizes": "(max-width: 700px) 100vw, 700px"
+                    }
+                  }
+                },
+                "tech": ["React.js", "Aws", "Ruby"],
+                "github": null,
+                "external": "https://zary.mn",
+                "show": "true"
+              },
+              "html": "<p>Онлайн худалдааг хүн бүрт хүртээмжтэй буюу C2C платформ.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Enaadam",
+                "cover": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='250'%20viewBox='0%200%20400%20250'%20preserveAspectRatio='none'%3e%3cpath%20d='M0%2075v74h401V0H0v75m102-16c-1%203-3%203-3%200s-3-2-4%201c0%202-2%203-2%201%200-1-1-2-2-1v-1l1-2c-1-1-3%201-3%204-1%202-1%202%204%202h19c3%200%204-1%204-2h1c0%202%202%203%202%201h1l1%201%201-3-1-3c0-2-2-1-2%201l-1%201-1-1c0-2-2-1-3%202v2l-2-3c-1-4-2-4-3%200-2%203-2%203-2%201%200-4-5-5-5-1M82%20171v7l1%201v2c-3%202-2%204%200%204s3%202%203%204l-3%201c-1%200-2%200-1%201l2%201c2%200%202%200%201%202l-2%201c-1%200-2%203-1%2012v13h12c10%200%2013%200%2014-2h2l-1%201c-1%201%200%201%202%201l4-1h2l22%201h18v-10l-1-11-1%202c0%202-1%202-6%202-6%200-6%200-6-2%200-3%200-3%204-3l5%201h1c0-1%201-2%203-2l2-1-1-2-1-1h1l1-3-1-3-1-1v-2c2%200%202-5%201-7-2-2-6%201-5%203l-1%203c-1%200-1%201%201%201l2%201c-1%202-3%202-5%200s-2-2-2%200l-2%202v-1l-1-1-1-2c0-2%200-2%201-1%200%202%202%202%202-1%200-1%200-2%202-1v-1c-1-1-1-1%201-1%201%200%202%200%201-2%200-1%201-2%203-2%203%200%205-1%204-3s-6-1-6%201c0%201-2%202-3%201l-2%201h-6c-1%201-1%201-1-1%201-3%201-3-1-3-3%200-5%202-3%203v2c-3%200-2%202%200%202v2l2%201c0%202%200%202-2%201-3-2-4-5-3-6v-1h-3v-1l1-1c1-1%200-2-1-2v1l-1%201-1-1c0-2-6-1-8%201-1%202-2%202-3%202-2%200-3-2-1-2l1-1h-16c-5%200-5%200-5%203s-1%204-2%202l-4-2-3-1%202-1c2%201%204-1%201-1h-7m79%207v9h5c11%202%209%203-3%203-2%200-2%202-2%2012v11l5%201%208%201c2%200%203%201%203%202l-1%201h-1c0%201%202%202%2014%202h14l-10-3-12-1c-1%201-2%201-2-1l1-1v-1l-4-1c-3%201-12-1-13-2h9l4%201%2015%201-1%202-1%202%202-1h1l4-1c3-2%204-2%201%201-1%201-1%201%201%201h3c-1%201%200%201%201%201l2-1h1c1%202%205%203%206%202l1-1%201%201c-1%201%200%201%201%201l1-1h4l2%201%208%201h8v-50h-4l-4%201h-7c-1-2-7%200-8%202-2%201-2%201-2-1-1-1-2-2-4-1h-6l-2%202c1%205-1%205-2%200-1-2-1-3-2-2h-6l-5%201h-4c1-2-13-2-14%200h-1l-3-1c-2-1-2-1-2%207m-57-4c0%202%202%203%204%203l3%201%201%203h-1c-2-3-3-2-2%200l3%202c1%201%201%201-2%201l-5-2c-2-1-8-1-10%201-2%201-2%201%202%201%205-1%205-1%206%201%200%202%204%203%208%201h3c2-1%204-3%203-5%200-1-1-2-3-1-1%200-2%200-1-1l1-2c0-2%200-2-1-1%200%202-2%201-1-1%200-2-1-3-2-1l-3%201v-1l-1-1-2%201m160%202l27%201%2026-1-26-1-27%201m-15%2010c0%201-1%202-3%201-3%200-3%200-3%202v2h-1l-1-1-1%207v8h8c9%200%209%200%208-2v-2l1%202c1%202%202%202%2020%202%2017%200%2022-1%2014-2-3-1-2-1%201-1h3l1-1%201-4%201-3c1%201%203-3%202-4l1-1c1%200%202%204%202%209-1%203%200%204%201%204l1%202%202%201%202-1c-1-3%201-4%203-3l1%203c-1%201%200%201%201%201%203%200%203%200%203-10v-10h-59v2l-1%203v-3c0-2-1-2-4-2l-4%201'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                      "aspectRatio": 1.6055045871559632,
+                      "src": "/static/7e159c77b13ab295c0f3567b4c998767/60290/enaadam.png",
+                      "srcSet": "/static/7e159c77b13ab295c0f3567b4c998767/847ef/enaadam.png 175w,\n/static/7e159c77b13ab295c0f3567b4c998767/91cba/enaadam.png 350w,\n/static/7e159c77b13ab295c0f3567b4c998767/60290/enaadam.png 700w,\n/static/7e159c77b13ab295c0f3567b4c998767/cdf73/enaadam.png 918w",
+                      "srcWebp": "/static/7e159c77b13ab295c0f3567b4c998767/89afa/enaadam.webp",
+                      "srcSetWebp": "/static/7e159c77b13ab295c0f3567b4c998767/9fca7/enaadam.webp 175w,\n/static/7e159c77b13ab295c0f3567b4c998767/37a4e/enaadam.webp 350w,\n/static/7e159c77b13ab295c0f3567b4c998767/89afa/enaadam.webp 700w,\n/static/7e159c77b13ab295c0f3567b4c998767/1b162/enaadam.webp 918w",
+                      "sizes": "(max-width: 700px) 100vw, 700px"
+                    }
+                  }
+                },
+                "tech": ["React.js", "Aws", "Ruby"],
+                "github": null,
+                "external": "https://enaadam.mn",
+                "show": "true"
+              },
+              "html": "<p>Монголд анх удаа наадмын тасалбарын онлайнаар борлуулав.</p>"
+            }
+          }
+        ]
+      },
+      "projects": {
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Autoparts.mn",
+                "tech": ["React", "GraphQl"],
+                "github": "",
+                "external": "https://autoparts.mn/",
+                "show": "true"
+              },
+              "html": "<p>Оригинал сэлбэгийг шууд үйлдвэрээс нь</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Converse",
+                "tech": ["React", "GraphQl"],
+                "github": "",
+                "external": "https://allstars.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "24auto.mn",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://24auto.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Ayanchin",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://ayanchin.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Wellbee",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://wellbeeshop.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Michelamazonka",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://michelamazonka.com/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "PC-MALL",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://pc-mall.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "TokTok",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://toktok.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Oeo",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://oeo.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Btf",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://btf.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Mana",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://mana.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Gerplace",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://gerplace.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Mild",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://mild.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Homeshopping",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://homeshopping.mn/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Shoez",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://shoez.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Comf",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://comf.mn/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Sarlagleather",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://sarlagleather.com/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "The most successful ecommerce in Mongolia",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://shoppy.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Worldwine Ulaanbaatar",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "http://premiumtaste.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Baby World Mongolia",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://babyworld.mn/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Carters Mongolia",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://carters.mn/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Homemall",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://homemall.mn/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Grocery Online",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://grocery.shoppy.mn/",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Nature Republic",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://naturerepublic.mn/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Joinme",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://joinme.mn/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Flower Greeting",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://flower.mn",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Deutsche Welle Mongolia",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://haus.mn/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Baigal Jewelry",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://baigalhouse.com/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "SmartStore",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://smartstore.mn/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Cose Cosmetics",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://cose.mn",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Tavannuden",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://tavannuden.com/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "IT Store",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://itstore.mn",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Inktop",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://inktop.mn/",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Next Electronics",
+                "tech": ["React", "NodeJs"],
+                "github": "",
+                "external": "https://next.mn",
+                "show": "true"
+              },
+              "html": "<p>Ecommerce website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Tavan Bogd Washyoku",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://washyoku.tavanbogd.mn/",
+                "show": "true"
+              },
+              "html": "<p>Company introductory website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Tavan Bogd Group",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://tavanbogd.com/",
+                "show": "true"
+              },
+              "html": "<p>Company introductory website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Xerox",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://xerox.mn/",
+                "show": "true"
+              },
+              "html": "<p>Company introductory website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Smart Electronics",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://smartcenter.mn/",
+                "show": "true"
+              },
+              "html": "<p>Company introductory website.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Toyota Tavanbogd",
+                "tech": ["PHP"],
+                "github": "",
+                "external": "http://toyota-tavanbogd.mn/",
+                "show": "true"
+              },
+              "html": "<p>Information website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Narumi Makeup Salon",
+                "tech": ["PHP", "WordPress"],
+                "github": "",
+                "external": "https://www.narumi.mn/",
+                "show": "true"
+              },
+              "html": "<p>WordPress website with online ordering system.</p>"
+            }
+          }
+        ]
+      },
+      "contact": {
+        "edges": [
+          {
+            "node": {
+              "frontmatter": { "title": "Get In Touch" },
+              "html": "<p>Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!</p>"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": {}
+  },
+  "staticQueryHashes": ["3115057458"]
+}

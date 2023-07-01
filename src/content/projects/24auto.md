@@ -5,7 +5,7 @@ github: ''
 external: 'https://24auto.mn/'
 tech:
   - React
-  - NodeJs
+  - Ruby
 company: '24auto LLC'
 show: 'true'
 ---
