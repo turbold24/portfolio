@@ -1,7 +1,6 @@
 {
   "componentChunkName": "component---src-pages-archive-js",
   "path": "/archive/",
-  "webpackCompilationHash": "",
   "result": {
     "data": {
       "projects": {
@@ -9,12 +8,26 @@
           {
             "node": {
               "frontmatter": {
+                "date": "2023-02-26",
+                "title": "Autoparts.mn",
+                "tech": ["React", "GraphQl"],
+                "github": "",
+                "external": "https://autoparts.mn/",
+                "company": "Autoparts LLC",
+                "show": "true"
+              },
+              "html": "<p>Оригинал сэлбэгийг шууд үйлдвэрээс нь</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
                 "date": "2021-01-24",
-                "title": "Roseshop",
+                "title": "24auto.mn",
                 "tech": ["React", "NodeJs"],
                 "github": "",
-                "external": "https://roseshop.mn/",
-                "company": "Roseshop LLC",
+                "external": "https://24auto.mn/",
+                "company": "24auto LLC",
                 "show": "true"
               },
               "html": "<p>Website</p>"
@@ -38,11 +51,11 @@
             "node": {
               "frontmatter": {
                 "date": "2021-01-24",
-                "title": "24auto.mn",
+                "title": "Roseshop",
                 "tech": ["React", "NodeJs"],
                 "github": "",
-                "external": "https://24auto.mn/",
-                "company": "24auto LLC",
+                "external": "https://roseshop.mn/",
+                "company": "Roseshop LLC",
                 "show": "true"
               },
               "html": "<p>Website</p>"
@@ -66,20 +79,6 @@
             "node": {
               "frontmatter": {
                 "date": "2021-01-16",
-                "title": "PC-MALL",
-                "tech": ["React", "NodeJs"],
-                "github": "",
-                "external": "https://pc-mall.mn/",
-                "company": "PC-MALL LLC",
-                "show": "true"
-              },
-              "html": "<p>Website</p>"
-            }
-          },
-          {
-            "node": {
-              "frontmatter": {
-                "date": "2021-01-16",
                 "title": "Michelamazonka",
                 "tech": ["React", "NodeJs"],
                 "github": "",
@@ -94,11 +93,11 @@
             "node": {
               "frontmatter": {
                 "date": "2021-01-16",
-                "title": "Pizzahut Mongolia",
+                "title": "PC-MALL",
                 "tech": ["React", "NodeJs"],
                 "github": "",
-                "external": "https://pizzahut.mn/",
-                "company": "Tavanbogd",
+                "external": "https://pc-mall.mn/",
+                "company": "PC-MALL LLC",
                 "show": "true"
               },
               "html": "<p>Website</p>"
@@ -136,11 +135,11 @@
             "node": {
               "frontmatter": {
                 "date": "2021-01-10",
-                "title": "Ulaanbaatar passport",
+                "title": "Btf",
                 "tech": ["React", "NodeJs"],
                 "github": "",
-                "external": "https://ubpassport.mn/",
-                "company": "UBP LLC",
+                "external": "https://btf.mn/",
+                "company": "BTF LLC",
                 "show": "true"
               },
               "html": "<p>Website</p>"
@@ -164,11 +163,11 @@
             "node": {
               "frontmatter": {
                 "date": "2021-01-10",
-                "title": "Btf",
+                "title": "Ulaanbaatar passport",
                 "tech": ["React", "NodeJs"],
                 "github": "",
-                "external": "https://btf.mn/",
-                "company": "BTF LLC",
+                "external": "https://ubpassport.mn/",
+                "company": "UBP LLC",
                 "show": "true"
               },
               "html": "<p>Website</p>"
@@ -248,20 +247,6 @@
             "node": {
               "frontmatter": {
                 "date": "2020-10-09",
-                "title": "Sarlagleather",
-                "tech": ["React", "NodeJs"],
-                "github": "",
-                "external": "https://sarlagleather.com/",
-                "company": "Sarlagleather",
-                "show": "true"
-              },
-              "html": "<p>Ecommerce website</p>"
-            }
-          },
-          {
-            "node": {
-              "frontmatter": {
-                "date": "2020-10-09",
                 "title": "Comf",
                 "tech": ["React", "NodeJs"],
                 "github": "",
@@ -276,11 +261,11 @@
             "node": {
               "frontmatter": {
                 "date": "2020-10-09",
-                "title": "Airlink",
+                "title": "Sarlagleather",
                 "tech": ["React", "NodeJs"],
                 "github": "",
-                "external": "https://airlink.mn/",
-                "company": "Airlink",
+                "external": "https://sarlagleather.com/",
+                "company": "Sarlagleather",
                 "show": "true"
               },
               "html": "<p>Ecommerce website</p>"
@@ -332,11 +317,11 @@
             "node": {
               "frontmatter": {
                 "date": "2020-07-09",
-                "title": "Carters Mongolia",
+                "title": "Baby World Mongolia",
                 "tech": ["React", "NodeJs"],
                 "github": "",
-                "external": "https://carters.mn/",
-                "company": "Carters",
+                "external": "https://babyworld.mn/",
+                "company": "Gurvan Gal LLC",
                 "show": "true"
               },
               "html": "<p>Ecommerce website</p>"
@@ -346,11 +331,11 @@
             "node": {
               "frontmatter": {
                 "date": "2020-07-09",
-                "title": "Baby World Mongolia",
+                "title": "Carters Mongolia",
                 "tech": ["React", "NodeJs"],
                 "github": "",
-                "external": "https://babyworld.mn/",
-                "company": "Gurvan Gal LLC",
+                "external": "https://carters.mn/",
+                "company": "Carters",
                 "show": "true"
               },
               "html": "<p>Ecommerce website</p>"
@@ -677,24 +662,11 @@
               },
               "html": "<p>WordPress website with online ordering system.</p>"
             }
-          },
-          {
-            "node": {
-              "frontmatter": {
-                "date": "2017-11-01",
-                "title": "Chig Shoes Brand",
-                "tech": ["PHP", "Laravel"],
-                "github": "",
-                "external": "http://chig-brand.com/",
-                "company": "Chig Shoe",
-                "show": "true"
-              },
-              "html": "<p>Company introductory website.</p>"
-            }
           }
         ]
       }
     },
-    "pageContext": { "isCreatedByStatefulCreatePages": true }
-  }
+    "pageContext": {}
+  },
+  "staticQueryHashes": ["3115057458"]
 }

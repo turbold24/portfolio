@@ -5,12 +5,11 @@ cover: './shoppy.jpg'
 external: 'https://shoppy.mn/'
 tech:
   - React
-  - NodeJS
+  - Ant Design
   - Ruby
-  - Sass
-  - Gatsby
+  - GraphQl
   - React Native
 show: 'true'
 ---
 
-The most successful ecommerce in Mongolia.
+Монголын хамгийн том онлайн худалдааны платформ.
