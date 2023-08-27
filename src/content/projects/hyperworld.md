@@ -2,7 +2,7 @@
 date: '2023-05-16'
 title: 'Hyperworld'
 github: ''
-external: 'https://hyperworld.mn/'
+external: 'https://hyperworld.gg/'
 tech:
   - React
   - Ruby
