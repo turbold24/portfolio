@@ -8,6 +8,76 @@
           {
             "node": {
               "frontmatter": {
+                "date": "2024-12-15",
+                "title": "Art of Nomads",
+                "tech": ["NextJs", "TypeScript", "Graphql"],
+                "github": "",
+                "external": "https://artofnomads.mn/",
+                "company": "Art of Nomads LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2024-12-01",
+                "title": "Storepay Global Website",
+                "tech": ["NextJs", "TypeScript", "Graphql"],
+                "github": "",
+                "external": "https://storepay.id/",
+                "company": "Storepay LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2024-10-24",
+                "title": "ikhgobi.mn",
+                "tech": ["NextJs", "TypeScript", "Graphql"],
+                "github": "",
+                "external": "https://ikhgobi.mn/",
+                "company": "IkhGobi LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2024-10-01",
+                "title": "oneworld.mn",
+                "tech": ["NextJs", "TypeScript", "Graphql"],
+                "github": "",
+                "external": "https://oneworld.mn/",
+                "company": "One World Edu LLC",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2024-09-14",
+                "title": "khanguud.mn",
+                "tech": ["NextJs", "TypeScript", "Graphql"],
+                "github": "",
+                "external": "https://khanguud.mn/",
+                "company": "Khanguud Group",
+                "show": "true"
+              },
+              "html": "<p>Website</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
                 "date": "2023-06-15",
                 "title": "bizhub.mn",
                 "tech": ["React", "Ruby"],
@@ -639,11 +709,11 @@
             "node": {
               "frontmatter": {
                 "date": "2021-01-20",
-                "title": "Wellbee",
-                "tech": ["React", "NodeJs"],
+                "title": "Vista Store",
+                "tech": ["React", "Ruby"],
                 "github": "",
-                "external": "https://wellbeeshop.mn/",
-                "company": "Wellbee LLC",
+                "external": "https://vistastore.mn/",
+                "company": "Vista Store LLC",
                 "show": "true"
               },
               "html": "<p>Website</p>"
@@ -653,11 +723,11 @@
             "node": {
               "frontmatter": {
                 "date": "2021-01-20",
-                "title": "Vista Store",
-                "tech": ["React", "Ruby"],
+                "title": "Wellbee",
+                "tech": ["React", "NodeJs"],
                 "github": "",
-                "external": "https://vistastore.mn/",
-                "company": "Vista Store LLC",
+                "external": "https://wellbeeshop.mn/",
+                "company": "Wellbee LLC",
                 "show": "true"
               },
               "html": "<p>Website</p>"
