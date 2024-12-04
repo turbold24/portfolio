@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '1'
 title: 'Shoppy.mn'
 cover: './shoppy.jpg'
 external: 'https://shoppy.mn/'

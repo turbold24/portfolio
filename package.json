@@ -13,7 +13,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "export NODE_OPTIONS=--openssl-legacy-provider && gatsby develop",
+    "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -51,7 +51,9 @@
     "gatsby-transformer-remark": "^2.6.30",
     "gatsby-transformer-sharp": "^2.2.23",
     "gh-pages": "^2.1.1",
+    "hapi": "^18.1.0",
     "prop-types": "^15.7.2",
+    "punycode": "^2.3.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-helmet": "^5.2.1",

@@ -7,7 +7,7 @@ tech:
   - React.js
   - Aws
   - Ruby
-show: 'true'
+show: 'false'
 ---
 
 Монголд анх удаа наадмын тасалбарын онлайнаар борлуулав.
