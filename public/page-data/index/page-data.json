@@ -118,18 +118,6 @@
           {
             "node": {
               "frontmatter": {
-                "title": "Trainee",
-                "company": "Japan Atomic Energy Agency",
-                "location": "Tokai, Japan",
-                "range": "July - Dec 2015",
-                "url": "https://www.jaea.go.jp/english/"
-              },
-              "html": "<p>Nuclear Engineering trainee at JAEA as a representative fellow from National University of Mongolia.</p>"
-            }
-          },
-          {
-            "node": {
-              "frontmatter": {
                 "title": "Research worker",
                 "company": "National University of Mongolia",
                 "location": "Ulaanbaatar, Mongolia",
@@ -137,6 +125,18 @@
                 "url": "https://www.num.edu.mn"
               },
               "html": "<p>Graduated from NUM in 2014 and employed by NUM as a research worker in Nuclear Engineering Department.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Trainee",
+                "company": "Japan Atomic Energy Agency",
+                "location": "Tokai, Japan",
+                "range": "July - Dec 2015",
+                "url": "https://www.jaea.go.jp/english/"
+              },
+              "html": "<p>Nuclear Engineering trainee at JAEA as a representative fellow from National University of Mongolia.</p>"
             }
           }
         ]
@@ -246,31 +246,6 @@
           {
             "node": {
               "frontmatter": {
-                "title": "ETsalin",
-                "cover": {
-                  "childImageSharp": {
-                    "fluid": {
-                      "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='244'%20viewBox='0%200%20400%20244'%20preserveAspectRatio='none'%3e%3cpath%20d='M255%2020c-15%202-32%2016-40%2032-15%2028-6%2063%2020%2081l7%207c2%207%203%207%2031%207%2025%201%2026%200%2028-1l2-3c0-5%202-9%209-15%2029-28%2028-70-3-97l-9-7-8-4-11-1c-7-1-17-1-26%201M63%2040c-4%203-2%209%204%209%203%200%205-2%205-6s-6-7-9-3m11%204l-2%205%201%202%202-1%202-1%203%201h2c0-1%201-2%203-1%204%200%206-3%204-6s-6-2-7%202l-1%203v-4c0-3%200-3-3-3s-4%200-4%203m174%2011v8h48V46h-48v9M61%2062c0%204%200%204%203%204l4%201h2l4-1c3%200%203%200%203-4%200-3-1-3-3-3-3%200-4%200-4%202%200%203-1%204-1%200l-1-3c-1%200-2%201-2%203l-1%203-1-3-1-3c-2%200-2%201-2%204m76-2l-1%204-1%202%201%202%201-1%203-1%202%201%201%201%201-1%204-1h4v-4c0-3-1-3-3-3l-4%201a1001%201001%200%2001-2%201c0-3%200-3-3-3s-3%200-3%202m108%2043c0%2033%200%2037%202%2038%201%201%206%202%2025%202%2023%200%2024-1%2026-2l1-38V67h-54v36M61%20115c-1%206-2%205%2013%206h14v-8H75c-12%200-14%200-14%202m30%202v4h28v-7l-14-1H91v4'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
-                      "aspectRatio": 1.6355140186915889,
-                      "src": "/static/8981fd536f037c92ad1fd554030a1801/ea4ab/etsalin.jpg",
-                      "srcSet": "/static/8981fd536f037c92ad1fd554030a1801/477ba/etsalin.jpg 175w,\n/static/8981fd536f037c92ad1fd554030a1801/06776/etsalin.jpg 350w,\n/static/8981fd536f037c92ad1fd554030a1801/ea4ab/etsalin.jpg 700w,\n/static/8981fd536f037c92ad1fd554030a1801/d91f7/etsalin.jpg 1000w",
-                      "srcWebp": "/static/8981fd536f037c92ad1fd554030a1801/89afa/etsalin.webp",
-                      "srcSetWebp": "/static/8981fd536f037c92ad1fd554030a1801/9fca7/etsalin.webp 175w,\n/static/8981fd536f037c92ad1fd554030a1801/37a4e/etsalin.webp 350w,\n/static/8981fd536f037c92ad1fd554030a1801/89afa/etsalin.webp 700w,\n/static/8981fd536f037c92ad1fd554030a1801/47f67/etsalin.webp 1000w",
-                      "sizes": "(max-width: 700px) 100vw, 700px"
-                    }
-                  }
-                },
-                "tech": ["React Native", "TypeScript", "GraphQl"],
-                "github": null,
-                "external": "https://etsalin.mn",
-                "show": "true"
-              },
-              "html": "<p>Цалингаа урьдчилж авдаг аппликейшн</p>\n<pre><code></code></pre>"
-            }
-          },
-          {
-            "node": {
-              "frontmatter": {
                 "title": "Songolt App",
                 "cover": {
                   "childImageSharp": {
@@ -291,6 +266,31 @@
                 "show": "true"
               },
               "html": "<p>Сонгуулийн боловсрол олгох апп</p>\n<pre><code></code></pre>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "ETsalin",
+                "cover": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='244'%20viewBox='0%200%20400%20244'%20preserveAspectRatio='none'%3e%3cpath%20d='M255%2020c-15%202-32%2016-40%2032-15%2028-6%2063%2020%2081l7%207c2%207%203%207%2031%207%2025%201%2026%200%2028-1l2-3c0-5%202-9%209-15%2029-28%2028-70-3-97l-9-7-8-4-11-1c-7-1-17-1-26%201M63%2040c-4%203-2%209%204%209%203%200%205-2%205-6s-6-7-9-3m11%204l-2%205%201%202%202-1%202-1%203%201h2c0-1%201-2%203-1%204%200%206-3%204-6s-6-2-7%202l-1%203v-4c0-3%200-3-3-3s-4%200-4%203m174%2011v8h48V46h-48v9M61%2062c0%204%200%204%203%204l4%201h2l4-1c3%200%203%200%203-4%200-3-1-3-3-3-3%200-4%200-4%202%200%203-1%204-1%200l-1-3c-1%200-2%201-2%203l-1%203-1-3-1-3c-2%200-2%201-2%204m76-2l-1%204-1%202%201%202%201-1%203-1%202%201%201%201%201-1%204-1h4v-4c0-3-1-3-3-3l-4%201a1001%201001%200%2001-2%201c0-3%200-3-3-3s-3%200-3%202m108%2043c0%2033%200%2037%202%2038%201%201%206%202%2025%202%2023%200%2024-1%2026-2l1-38V67h-54v36M61%20115c-1%206-2%205%2013%206h14v-8H75c-12%200-14%200-14%202m30%202v4h28v-7l-14-1H91v4'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                      "aspectRatio": 1.6355140186915889,
+                      "src": "/static/8981fd536f037c92ad1fd554030a1801/ea4ab/etsalin.jpg",
+                      "srcSet": "/static/8981fd536f037c92ad1fd554030a1801/477ba/etsalin.jpg 175w,\n/static/8981fd536f037c92ad1fd554030a1801/06776/etsalin.jpg 350w,\n/static/8981fd536f037c92ad1fd554030a1801/ea4ab/etsalin.jpg 700w,\n/static/8981fd536f037c92ad1fd554030a1801/d91f7/etsalin.jpg 1000w",
+                      "srcWebp": "/static/8981fd536f037c92ad1fd554030a1801/89afa/etsalin.webp",
+                      "srcSetWebp": "/static/8981fd536f037c92ad1fd554030a1801/9fca7/etsalin.webp 175w,\n/static/8981fd536f037c92ad1fd554030a1801/37a4e/etsalin.webp 350w,\n/static/8981fd536f037c92ad1fd554030a1801/89afa/etsalin.webp 700w,\n/static/8981fd536f037c92ad1fd554030a1801/47f67/etsalin.webp 1000w",
+                      "sizes": "(max-width: 700px) 100vw, 700px"
+                    }
+                  }
+                },
+                "tech": ["React Native", "TypeScript", "GraphQl"],
+                "github": null,
+                "external": "https://etsalin.mn",
+                "show": "true"
+              },
+              "html": "<p>Цалингаа урьдчилж авдаг аппликейшн</p>\n<pre><code></code></pre>"
             }
           },
           {
@@ -1435,7 +1435,7 @@
           {
             "node": {
               "frontmatter": { "title": "Get In Touch" },
-              "html": "<p>Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!</p>"
+              "html": "<p>Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email! Feel free to contact me at:</p>\n<pre><code class=\"language-plaintext\">Email: turbold.me@gmail.com\nPhone: +976 86682048\n</code></pre>"
             }
           }
         ]
